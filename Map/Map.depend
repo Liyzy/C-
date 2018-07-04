@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1500362249 source:d:\codeblocks\lihui\c++\map\menu.cpp
+	<iostream>
+	<list>
+	<conio.h>
+	"Record.h"
+
+1500362249 source:d:\codeblocks\lihui\c++\map\record.cpp
+	<iostream>
+	"Record.h"
+
+1500364564 d:\codeblocks\lihui\c++\map\record.h
+	<cstring>
+
+1500361225 source:d:\codeblocks\lihui\c++\map\main.cpp
+	<iostream>
+	"Menu.h"
+	<list>
+	"Record.h"
+
+1500289342 d:\codeblocks\lihui\c++\map\menu.h
+
+1500363673 source:d:\codeblocks\lihui\c++\map\interface.cpp
+	<iostream>
+	"Record.h"
+

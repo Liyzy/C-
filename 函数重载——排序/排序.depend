@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489739072 source:d:\codeblocks\李辉\c++\第一次作业\5（2）\排序\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstring>
+

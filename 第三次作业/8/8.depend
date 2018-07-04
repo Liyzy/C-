@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490181102 source:d:\codeblocks\李辉\c++\第三次作业\8\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
